@@ -46,3 +46,20 @@ let stringNumber = String (someNumber)
 console.log(typeof stringNumber);//string 
 console.log(stringNumber);//"33"
 
+
+
+//  **************************************************** Operations ****************************************************
+
+let value = 3
+let negValue = -value
+console.log(negValue);
+
+/* 
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2/2);
+console.log(2**3); ***this gives us the power (2 raise to the power 3)
+console.log(2%2); ***this gives us remainder
+*/
+
