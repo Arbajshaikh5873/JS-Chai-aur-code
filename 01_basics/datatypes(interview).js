@@ -55,4 +55,15 @@ Object  =>  object
 
 */
  
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+//stack memory is used for primitive da
+// whenever we get stack memory for primitive data types at that time we get copy of the data 
+//changes within the copy can not affect the original value of the data 
+
+
+//heap memory is used for non primitive data types 
+// whenever we get heap memory for non primitive data types at that time we get reference  of the originaldata 
+//changes within the reference can change  the original value of the data 
+
+let myYou
